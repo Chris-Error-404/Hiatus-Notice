@@ -10,7 +10,7 @@ I’ve decided to go back and properly rebuild my JavaScript foundation. I want 
 ## Staying Sharp
 Even while I’m reworking my JS skills, I’ll still be doing small HTML, CSS, and SCSS projects from time to time. These will mostly be private, just to help me stay in practice and make sure I’m not rusty when I’m ready to jump back in fully.
 
-That also means you probably won’t be seeing any shiny new public repos from me for a while — at least not until I feel confident enough to build and share again.
+That also means you probably won’t be seeing any shiny new public repos from me for a while, at least not until I feel confident enough to build and share again.
 
 ## Feel Free To Explore
 Feel free to contribute, fork, or star anything on my profile. I appreciate the support, and I’m genuinely excited to see where this journey takes me. I already have a feeling it’s going to be somewhere great.
