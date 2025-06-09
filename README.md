@@ -5,7 +5,7 @@ Hey there to anyone reading this,
 While trying to get into React.js, I realized my JavaScript skills weren’t where I wanted them to be. It felt like I was learning React and JavaScript at the same time, and that quickly got overwhelming.
 
 ## What I'm Doing Now
-I’ve decided to go back and properly rebuild my JavaScript foundation. I want to really understand it, not just get things working. Also, while I’ve used AI to help with parts of my code in the past, I’ve noticed that leaning on it sometimes has slowed down my overall growth. From now on, I’ll focus more on writing things myself — it’s the smarter move long term.
+I’ve decided to go back and properly rebuild my JavaScript foundation. I want to really understand it, not just get things working. Also, while I’ve used AI to help with parts of my code in the past, I’ve noticed that leaning on it sometimes has slowed down my overall growth. From now on, I’ll focus more on writing things myself, it’s the smarter move long term.
 
 ## Staying Sharp
 Even while I’m reworking my JS skills, I’ll still be doing small HTML, CSS, and SCSS projects from time to time. These will mostly be private, just to help me stay in practice and make sure I’m not rusty when I’m ready to jump back in fully.
